@@ -4,3 +4,6 @@
 [submodule "lambda"]
 	path = lambda
 	url = https://github.com/lighteko/infoscribe-lambda.git
+[submodule "next"]
+	path = next
+	url = https://github.com/lighteko/infoscribe-next.git
